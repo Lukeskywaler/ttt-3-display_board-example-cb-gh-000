@@ -8,4 +8,5 @@ def display_board
   print "-----------"
   print "   |   |   "
 
+  return
 end
